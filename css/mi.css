@@ -1,0 +1,22 @@
+#cabecera{
+	text-align: center;
+	color: white;
+	background-color: #74AADA;
+	margin-bottom: 0;
+}
+
+#mi_texto{
+	width: 500px;
+	height: 250px;
+}
+
+#mi_numero{
+	width: 500px;
+}
+
+#pie{
+	text-align: center;
+	background-color: #404040;
+	color: white;
+	margin-bottom: 0;
+}
